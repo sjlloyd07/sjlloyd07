@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello
+
+I'm Steve.  I'm a longtime technology enthusiast with a fondness for trivial knowledge.  I'm currently learning methods of data analysis with python and SQL.  
+
 
 <!--
-**sjlloyd07/sjlloyd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
