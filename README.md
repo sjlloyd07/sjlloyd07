@@ -1,6 +1,6 @@
 ### Hello
 
-I'm Steve.  I'm a longtime technology enthusiast with a fondness for trivial knowledge.  I'm currently learning methods of data analysis with python and SQL.  
+I'm Steve, an enthusiastic learner with an addiction to acquiring trivial knowledge.  Recently, I've been enjoying learning methods of data analysis with python and SQL.  I'm in the process of transitioning careers from operations management to analytics and am excited about the growing opportunities in the field.
 
 
 <!--
