@@ -1,6 +1,17 @@
-### Hello
+## Hello
 
-I'm Steve, an enthusiastic learner with an addiction to acquiring trivial knowledge.  Recently, I've been enjoying learning methods of data analysis with python and SQL.  I'm in the process of transitioning careers from operations management to analytics and am excited about the growing opportunities in the field.
+### I'm Steve
+
+An enthusiastic learner and problem solver.  
+
+I spend my free time reading about what makes things tick and being outdoors.  
+
+I'm in the process of transitioning careers from operations management to analytics and am excited about the growing opportunities in the field.  
+
+Recently, I've been enjoying learning methods of data analysis with python and SQL, as well as database design.
+
+### My portfolio projects can be found [here](https://github.com/sjlloyd07/portfolio_projects#readme).
+
 
 
 <!--
