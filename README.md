@@ -1,12 +1,12 @@
 ## Hello
 
-### I'm Steve
+## I'm Steve
 
 An enthusiastic learner and problem solver.  
 
-I spend my free time reading about what makes things tick and being outdoors.  
+I spend my free time either being outdoors or reading about what makes things tick.
 
-I'm in the process of transitioning careers from operations management to analytics and am excited about the growing opportunities in the field.  
+I'm in the process of transitioning careers from operations management to analytics.  
 
 Recently, I've been enjoying learning methods of data analysis with python and SQL, as well as database design.
 
