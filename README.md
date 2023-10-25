@@ -12,7 +12,9 @@ Recently, I've been enjoying learning methods of data analysis with python and S
 
 ### My portfolio projects can be found [here](https://github.com/sjlloyd07/portfolio_projects#readme).
 
+<br><br>
 
+[**My Tableau Profile**](https://public.tableau.com/app/profile/steve.lloyd/vizzes)
 
 <!--
 Here are some ideas to get you started:
