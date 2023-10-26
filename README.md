@@ -10,9 +10,18 @@ I'm in the process of transitioning careers from operations management to analyt
 
 Recently, I've been enjoying learning methods of data analysis with python and SQL, as well as database design.
 
-### My portfolio projects can be found [here](https://github.com/sjlloyd07/portfolio_projects#readme).
+<br>
 
-<br><br>
+### Skills
+- Microsoft Excel
+- SQL (PostgreSQL)
+- Tableau
+
+<br>
+
+### [Data portfolio](https://github.com/sjlloyd07/portfolio_projects#readme)
+
+<br>
 
 [**My Tableau Profile**](https://public.tableau.com/app/profile/steve.lloyd/vizzes)
 
