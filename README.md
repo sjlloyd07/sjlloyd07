@@ -1,6 +1,4 @@
-## Hello
-
-## I'm Steve
+## Hello, I'm Steve
 
 An enthusiastic learner and problem solver.  
 
