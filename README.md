@@ -8,20 +8,27 @@ I'm in the process of transitioning careers from operations management to analyt
 
 Recently, I've been enjoying learning methods of data analysis with python and SQL, as well as database design.
 
-<br>
-
-### Skills
-- Microsoft Excel
-- SQL (PostgreSQL)
-- Tableau
+Check out my portfolio [here.](https://github.com/sjlloyd07/portfolio_projects#readme)
 
 <br>
 
-### [Data portfolio](https://github.com/sjlloyd07/portfolio_projects#readme)
+## 🧰 Technical Skills
+
+|  Tool | Skills |
+| --- | --- |
+| **Microsoft Excel** | Data Cleaning, Analysis, Visualization |
+| **SQL** (PostgreSQL) | Data Cleaning, Analysis, Modeling |
+| **Tableau** | Data Anaylsis, Visualization |
+
+
+
 
 <br>
 
-[**My Tableau Profile**](https://public.tableau.com/app/profile/steve.lloyd/vizzes)
+
+<br>
+
+## [**My Tableau Profile**](https://public.tableau.com/app/profile/steve.lloyd/vizzes)
 
 <!--
 Here are some ideas to get you started:
